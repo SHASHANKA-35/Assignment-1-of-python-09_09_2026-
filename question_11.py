@@ -30,4 +30,4 @@ for i in students.keys():
 
         
 
-print("Total no.of students eligible for scholarship: "c,"\n","Highest average marks: ",avg,"\n","Highest scorer is:",high)
+print("Total no.of students eligible for scholarship: ",c,"\n","Highest average marks: ",avg,"\n","Highest scorer is:",high)
